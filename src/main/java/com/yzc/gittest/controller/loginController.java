@@ -7,5 +7,8 @@ package com.yzc.gittest.controller;
  * Description：
  **/
 public class loginController {
-
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
