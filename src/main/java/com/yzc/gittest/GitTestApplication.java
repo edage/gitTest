@@ -13,7 +13,7 @@ public class GitTestApplication {
         loginController loginController = new loginController();
         loginController.getId("111");
         System.out.println("测试测试11111112022");
-
+        System.out.println("测试测试22233333");
     }
 
 }
