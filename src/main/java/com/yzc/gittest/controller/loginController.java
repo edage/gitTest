@@ -9,7 +9,7 @@ package com.yzc.gittest.controller;
 public class loginController {
     @Override
     public String toString() {
-        System.out.println("测试测试");
+        System.out.println("测试测试2222233");
         return super.toString();
     }
 }
