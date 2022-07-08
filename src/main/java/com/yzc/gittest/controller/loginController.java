@@ -7,11 +7,7 @@ package com.yzc.gittest.controller;
  * Description：
  **/
 public class loginController {
-    @Override
-    public String toString() {
-        System.out.println("测试测试2222233");
-        System.out.println(111111);
-        System.out.println(1+2);
-        return super.toString();
+    public void getId(String userId){
+        System.out.println(userId);
     }
 }
