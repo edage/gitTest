@@ -11,6 +11,7 @@ public class loginController {
     public String toString() {
         System.out.println("测试测试2222233");
         System.out.println(111111);
+        System.out.println(2222);
         return super.toString();
     }
 }
